@@ -1,6 +1,7 @@
 # library-project
 App de gestion de bibliothèque sous Symfony.
 
+[Lien vers le Trello](https://trello.com/b/vyD8mOaB/library)
 
 ## Liste de services
 
